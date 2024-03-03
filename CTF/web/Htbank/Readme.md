@@ -2,6 +2,7 @@
 # Rate: Easy
 
 * We can start by downloading the source code, analysing the source code we can see that the flag is givin when we withdraw 1337 amount:
+  
 ![image](./image/credit.png)
 
 * The problem is when we create a new user our credit is 0 , checking the code there is a condition that checks our credit and if its true we get the response `Not enough credits`  and if is not then it sends a POST request to the PHP api endpoint.
