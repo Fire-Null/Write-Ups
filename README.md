@@ -6,7 +6,7 @@ Welcome to the official write-ups repository of Fire-Null Cybersecurity. Here, w
 | Link | Description |
 |---|---|
 | [CVE](https://github.com/Fire-Null/Write-Ups/tree/main/CVE) | CVE directory is dedicated to analysis and develop new exploits |
-
+|[CTF](https://github.com/Fire-Null/Write-Ups/tree/main/CTF)| CTF directory is dedicated to publish write-ups for CTF's we played|
 ## Our Philosophy 🌟
 
 We believe in sharing knowledge to empower and educate. Our write-ups serve as a resource for those looking to deepen their understanding of cybersecurity, the threats that exist today, and the methods we can use to protect ourselves tomorrow.
