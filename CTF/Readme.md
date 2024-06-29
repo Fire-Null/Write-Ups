@@ -1,5 +1,23 @@
 # Here we publish write ups for CTF we played.
-## There is a list of web challanges we did in HackTheBox:
+## the list of web challanges we did in HackTheBox:
+***
 | Web Challanges | solved |
 | ----------- | ----------- |
-| [HTBank](https://github.com/Fire-Null/Write-Ups/blob/main/CTF/web/Htbank/Readme.md) | yep|
+| [HTBank](https://github.com/Fire-Null/Write-Ups/blob/main/CTF/web/Htbank/Readme.md) |✓|
+|PDFy |❎|
+|insomnia|❎|
+|jscalc|❎|
+|ProxyAsAService|❎|
+|ApacheBlaze|❎|
+|RenderQuest|❎|
+|C.O.P|❎|
+|Neonify|❎|
+|DoxPit|❎|
+|ScreenCrack|❎|
+|JerryTok|❎|
+|Stylish|❎|
+|No-Treshhold|❎|
+|Prying Eyes|❎|
+|Why Lambda|❎|
+|Pod Diagnostics|❎|
+|ArtificialUniversity|❎|
