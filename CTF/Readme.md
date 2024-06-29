@@ -5,7 +5,7 @@
 | ----------- | ----------- |
 | [HTBank](https://github.com/Fire-Null/Write-Ups/blob/main/CTF/web/Htbank/Readme.md) |✓|
 |[PDFy](https://github.com/Fire-Null/Write-Ups/blob/main/CTF/web/PDFy/Readme.md) |✓|
-|insomnia|❎|
+|insomnia|✓|
 |jscalc|❎|
 |ProxyAsAService|❎|
 |ApacheBlaze|❎|
