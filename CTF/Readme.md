@@ -1,7 +1,7 @@
-# Here we publish write ups for CTF we played.
-## the list of web challanges we did in HackTheBox:
+# Here we publish write ups for CTF we play.
+## the list of challanges we played so far:
 ***
-| Web Challanges | solved |
+| HTB Web Challanges | solved |
 | ----------- | ----------- |
 | [HTBank](https://github.com/Fire-Null/Write-Ups/blob/main/CTF/web/Htbank/Readme.md) |✓|
 |[PDFy](https://github.com/Fire-Null/Write-Ups/blob/main/CTF/web/PDFy/Readme.md) |✓|
