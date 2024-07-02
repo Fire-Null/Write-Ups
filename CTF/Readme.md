@@ -6,7 +6,7 @@
 | [HTBank](https://github.com/Fire-Null/Write-Ups/blob/main/CTF/web/Htbank/Readme.md) |✓|
 |[PDFy](https://github.com/Fire-Null/Write-Ups/blob/main/CTF/web/PDFy/Readme.md) |✓|
 |[insomnia](https://github.com/Fire-Null/Write-Ups/tree/main/CTF/web/Insomnia)|✓|
-|jscalc|❎|
+|[jscalc](https://github.com/Fire-Null/Write-Ups/tree/main/CTF/web/jscalc)|✓|
 |ProxyAsAService|❎|
 |ApacheBlaze|❎|
 |RenderQuest|❎|
