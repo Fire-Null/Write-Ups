@@ -14,8 +14,8 @@
 |Neonify|❎|
 |DoxPit|❎|
 |ScreenCrack|❎|
-|JerryTok|❎|
-|Stylish|❎|
+|[JerryTok](https://github.com/Q0120S/Write-Ups/tree/main/CTF/web/JerryTok)|✓|
+|[Stylish](https://github.com/Q0120S/Write-Ups/tree/main/CTF/web/Stylish)|✓|
 |No-Treshhold|❎|
 |Prying Eyes|❎|
 |Why Lambda|❎|
