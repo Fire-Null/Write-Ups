@@ -122,7 +122,7 @@ Now we have the token and have access to all routes.
 
 As we can see the code is loading files using Jinja templates. so we can try SSTI.
 
-![invalid-chars.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b0ec4cc-79d3-4877-956a-bdb954b181b2/f5d3368c-28fe-42d5-908f-55bdb78cdd69/invalid-chars.png)
+![invalid-chars.png](invalid-chars.png)
 
 But here’s the thing. There are some preventions in these files that limit us from performing SSTI attacks. So we can not use `{{`, `}}`, `.`, `_`, `[`, `]`, `\`, `x` in our payload.
 
