@@ -1,5 +1,5 @@
 # Challenge: DoxPit
-# Rate: Medium
+## Rate: Medium
 
 The WebApp is using Next.js version 14.1.0 which has [CVE-2024-34351](https://www.assetnote.io/resources/research/advisory-next-js-ssrf-cve-2024-34351).
 
