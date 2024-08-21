@@ -12,10 +12,10 @@
 |RenderQuest|❎|
 |C.O.P|❎|
 |Neonify|❎|
-|DoxPit|❎|
+|[DoxPit](https://github.com/Fire-Null/Write-Ups/tree/main/CTF/web/DoxPit)|✓|
 |ScreenCrack|❎|
-|[JerryTok](https://github.com/Q0120S/Write-Ups/tree/main/CTF/web/JerryTok)|✓|
-|[Stylish](https://github.com/Q0120S/Write-Ups/tree/main/CTF/web/Stylish)|✓|
+|[JerryTok](https://github.com/Fire-Null/Write-Ups/tree/main/CTF/web/JerryTok)|✓|
+|[Stylish](https://github.com/Fire-Null/Write-Ups/tree/main/CTF/web/Stylish)|✓|
 |No-Treshhold|❎|
 |Prying Eyes|❎|
 |Why Lambda|❎|
