@@ -1,4 +1,4 @@
-# Challenge: DoxPit
+# Challenge: APKey
 ## Rate: Easy
 
 Try to install the APK.
