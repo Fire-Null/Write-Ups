@@ -17,19 +17,19 @@ am start -n com.stego.saw/.MainActivity -e open sesame
 
 App:
 
-![1.png](1.png)
+![2.png](2.png)
 
 Now if we click on the “Click me…” button, the app will immediately close again. Let’s examine the rest of the code to find the problem.
 
-![2.png](2.png)
+![3.png](3.png)
 
 Check the APP log:
 
-![3.png](3.png)
+![4.png](4.png)
 
 Also, look at the `AndroidManifest.xml`:
 
-![4.png](4.png)
+![5.png](5.png)
 
 So our problem is the app doesn’t have `Allow display over other apps` permission. 
 
@@ -45,15 +45,15 @@ To Grant this permission to the app we have to ways:
 
 After that, the app will open without any issues:
 
-![5.png](5.png)
+![6.png](6.png)
 
 So let’s examine the related code:
 
-![6.png](6.png)
+![7.png](7.png)
 
 Here’s we have function which wait’s for user input.
 
-![7.png](7.png)
+![8.png](8.png)
 
 Also, the app has native method named `a()`. 
 
@@ -117,7 +117,7 @@ function hook_RegisterNatives(addrRegisterNatives) {
 setImmediate(find_RegisterNatives);
 ```
 
-![8.png](8.png)
+![8-1.png](8-1.png)
 
 So let's decompile APK and analyze the `libdefault.so` file.
 
