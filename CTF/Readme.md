@@ -25,7 +25,7 @@
 ***
 | HTB Mobile Challanges | solved |
 | ----------- | ----------- |
-| [Cat]() |✓|
-| [APKey]() |✓|
-| [SAW]() |✓|
-| [Cryptohorrific]() |❎|
+|[Cat](https://github.com/Q0120S/Write-Ups/tree/main/CTF/Mobile/Cat)|✓|
+|[APKey](https://github.com/Q0120S/Write-Ups/tree/main/CTF/Mobile/APKey) |✓|
+|[SAW](https://github.com/Q0120S/Write-Ups/tree/main/CTF/Mobile/SAW)|✓|
+|Cryptohorrific|❎|
