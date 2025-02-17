@@ -28,4 +28,4 @@
 |[Cat](https://github.com/Q0120S/Write-Ups/tree/main/CTF/Mobile/Cat/Readme.md)|✓|
 |[APKey](https://github.com/Q0120S/Write-Ups/tree/main/CTF/Mobile/APKey/Readme.md) |✓|
 |[SAW](https://github.com/Q0120S/Write-Ups/tree/main/CTF/Mobile/SAW/Readme.md)|✓|
-|Cryptohorrific|❎|
+|[Cryptohorrific](https://github.com/Q0120S/Write-Ups/blob/main/CTF/Mobile/Cryptohorrific/Readme.md)|✓|
