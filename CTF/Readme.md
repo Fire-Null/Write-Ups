@@ -22,3 +22,10 @@
 |Why Lambda|❎|
 |Pod Diagnostics|❎|
 |ArtificialUniversity|❎|
+***
+| HTB Mobile Challanges | solved |
+| ----------- | ----------- |
+| [Cat]() |✓|
+| [APKey]() |✓|
+| [SAW]() |✓|
+| [Cryptohorrific]() |❎|
